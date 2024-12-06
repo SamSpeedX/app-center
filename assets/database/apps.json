@@ -1,0 +1,7 @@
+{
+    "apps": [
+        { "id": 1, "name": "Sample App 1", "url": "uploads/sample1.apk" },
+        { "id": 2, "name": "Sample App 2", "url": "uploads/sample2.apk" },
+        { "id": 3, "name": "Another App", "url": "uploads/another.apk" }
+    ]
+}
