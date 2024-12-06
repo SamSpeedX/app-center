@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const appsFile = "assets/database/apps.json";
+    const appsFile = "./assets/database/apps.json";
 
     // Load JSON database
     async function loadApps() {
